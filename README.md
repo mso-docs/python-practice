@@ -1,4 +1,4 @@
-# Welcome to python-practice!
+![Python Practice Logo](assets/logo-py.png)
 This is a repo for practicing Python. It is just a simple place for me to learn the language. 
 Eventually, this repo will contain a variety of projects. I'm still new to GitHub and programming in general, so this is a learning space for me. 
 
