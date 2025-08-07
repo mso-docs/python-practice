@@ -1,12 +1,14 @@
 # Welcome to python-practice!
-
-``print("Hello World!")``
-
-This is a repo for practicing Python. It is just a simple place for me to learn the language. Eventually, this repo will contain a variety of projects. I'm still new to GitHub and programming in general, so this is a learning space for me. 
+This is a repo for practicing Python. It is just a simple place for me to learn the language. 
+Eventually, this repo will contain a variety of projects. I'm still new to GitHub and programming in general, so this is a learning space for me. 
 
 ---
+# What Currently Exists Here
+For starters, here is what I have created:
+- A simple (obligatory) "Hello World!" script.
+- A simple poem GUI app, where you can submit a quick poem!
 
-# What It Will Have
+# What I Want to Create Here
 Eventually, I want to develop **entire programs** within this project. For now, I _only_ have a simple test script. 
 
 I want to build:
@@ -32,3 +34,4 @@ Thanks for taking the time to look at my page. Excited to build with you!
 ``print("Goodbye World!")``
 
 ---
+![Me using Python](/assets/python.png)
